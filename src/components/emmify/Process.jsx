@@ -1,10 +1,10 @@
 import React from 'react';
-import { Search, Inbox, PanelsTopLeft, MessageCircle, CalendarCheck, TrendingUp } from 'lucide-react';
+import { Search, Inbox, Layout, MessageCircle, CalendarCheck, TrendingUp } from 'lucide-react';
 
 const steps = [
   ['Google Maps & Local Search', Search],
   ['Lead Capture', Inbox],
-  ['CRM Integration', PanelsTopLeft],
+  ['CRM Integration', Layout],
   ['Automated Follow-Up', MessageCircle],
   ['Qualified Appointments', CalendarCheck],
   ['More Customers', TrendingUp]
